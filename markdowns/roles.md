@@ -6,7 +6,7 @@
 
 ## Citizen :
 
-**Citizen** roles: As citizens, your objective is to assist in eliminating the terrorists as quickly as possible.
+**Citizen** roles: As citizens, your objective is to assist in eliminating the terrorists as quickly as possible and survive till the end of the game.
 
 ## Terrorist :
 
@@ -23,6 +23,7 @@
 
 **Psychopath** roles: The fanatic's role is to die as early as possible to earn extra points.
 **Points:**
+
 - Dies in the first round: 3 extra points
 - Dies in the second round: 2 extra points
 - Dies in the third round: 1 extra point
@@ -33,6 +34,7 @@
 **Inspector** roles: The inspector will receive a bullet in each round, which can be used to eliminate any player. The objective is to earn as many extra points as possible.
 **Points:**
 The inspector will earn extra points if they eliminate all the terrorists as early as possible.
+
 - All terrorists die in the second round: 3 extra points
 - All terrorists die in the third round: 2 extra points
 - All terrorists die in the fourth round: 1 extra point
@@ -42,5 +44,6 @@ The inspector will earn extra points if they eliminate all the terrorists as ear
 **Reporter** roles: Reporters have the power to suspect anyone among them and ask their identity directly from the moderator (God). This ability refreshes once every round. To inquire about someone's identity, they'll have to leave the colosseum and go to the angel room.
 
 ## Disclaimer:
+
 Every character apart from these defined roles is an ordinary citizen.
 Every player has the ability to get tested once by going into the Angel room to check they're infected or not.
