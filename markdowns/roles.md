@@ -1,6 +1,8 @@
-﻿# Roles... 
+﻿[```](index.html)
 
-> >It's important...read up.
+# Roles…
+
+> > It’s important…read up.
 
 ## Citizen :
 
@@ -25,4 +27,5 @@
 ## Reporter:
 
 **Reporter** roles
+
 ```

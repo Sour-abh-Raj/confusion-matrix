@@ -1,4 +1,6 @@
-﻿# Gameplay... 
+﻿[```](index.html)
+
+# Gameplay... 
 
 > >Because how else are you going to play 🙃
 
